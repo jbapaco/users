@@ -31,3 +31,5 @@ Aprovecha para usar:
 - spread operator. Crea un nuevo array con el objeto y con los nuevos datos a añadir (age, img, address con los nuevos datos)
 - Modifica el archivo `styles.css` para cambiar estilos.
 - Ajusta el archivo `script.js` para mostrar diferentes detalles de usuarios según tus necesidades.
+
+
